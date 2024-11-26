@@ -3,10 +3,8 @@
 ### Unreal Version 5.2.1
 
 > [!NOTE]
-> #### There are 3 Scenes :
-> - [VFX Scene](https://github.com/Loris-Moreau/VFX_Testing/tree/main/Content/ThirdPerson/Maps "VFX Map")
-> - [Weeping Angels Scene](https://github.com/Loris-Moreau/VFX_Testing/tree/main/Content/Weeping_Angels "Weeping Angels Folder")
-> - [Procedural Rig Scene](https://github.com/Loris-Moreau/VFX_Testing/tree/main/Content/Procedural_Animations "Procedural Rig Folder")
+> #### The Scenes/Maps are here :
+> [Scenes](https://github.com/Loris-Moreau/VFX_Testing/tree/main/Content/Maps "Maps")
 
 
 #### **Current [VFX's](https://github.com/Loris-Moreau/VFX_Testing/tree/main/Content/VFX "VFX Folder") :**
@@ -19,6 +17,7 @@
 - Glass & Mirror
 - Hologram
 - Invisible Wall
+- Forcefield
 - Magic Circle
 - Outline
 - Noise/Static Screen Effect
@@ -26,9 +25,11 @@
 - Storm/Tornado
 - Voronoi Scanline
 - Water
-- - Realistic
-- - Stylized
-- - Rain (Post-Process)
+  - Realistic
+  - Stylized
+  - Rain (Post-Process)
+  - Waterfall
+- more might be added later
 
 
 #### **[UI](https://github.com/Loris-Moreau/VFX_Testing/tree/main/Content/UI "UI Folder") :**
@@ -50,7 +51,7 @@
 #### **Procedural Animation :**
 
 > [!CAUTION]
-> Procedural Animation are Currently non Functional
+> Procedural Animations are Currently in WIP status
 
 - Walk Cycle with IK
 - Ears & Tail Sway
