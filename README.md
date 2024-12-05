@@ -55,7 +55,7 @@
 
 #### **Procedural Animation :**
 
-> [!CAUTION]
+> [!Warning]
 > Procedural Animations are Currently in WIP status
 
 - Walk Cycle with IK
