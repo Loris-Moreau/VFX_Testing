@@ -29,6 +29,9 @@
   - Stylized
   - Rain (Post-Process)
   - Waterfall
+- Slime
+  - In Slime Rancher Style using this [reference](https://steamcommunity.com/games/433340/announcements/detail/1603760509517193576)
+  - Basic *(Veiny)*
 - more might be added later
 
 #### **Houdini :**
